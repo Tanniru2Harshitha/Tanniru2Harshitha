@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanniru2harshitha&label=Profile%20views&color=0e75b6&style=flat" alt="tanniru2harshitha" /> </p>
 
-- 🌱 I’m currently learning **DL,Flask**
+- 🌱 I’m currently learning **DL, Flask**
 
 - 📫 How to reach me **harshithatanniru95@gmail.com**
 
